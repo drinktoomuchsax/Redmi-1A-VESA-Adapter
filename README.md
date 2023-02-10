@@ -1,5 +1,5 @@
 # Redmi-1A-VESA-Adapter
-This is a 75mm VESA port adapter for Redmi 1A monitor, which using a stupid stand without VESA port.
+This is a 75mm VESA port adapter for Redmi 1A monitor, which using a stupid stand without VESA port.  
 这个项目能够帮助你将红米1A显示器的自带支架变为75mm的VESA接口。
 
 # BOM
