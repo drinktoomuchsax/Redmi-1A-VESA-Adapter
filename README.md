@@ -29,3 +29,5 @@ This is a 75mm VESA port adapter for Redmi 1A monitor, which using a stupid stan
 ## To Do
 **因为板子不够厚，所以会因为中间突出而翘起，通过简单加厚厚度可以解决，但是可以我可以接受，所以就这样了。**
 ![](Pic/551A0456.JPG)
+
+## 任何问题，随时联系drinktoomuchsax@qq.com
