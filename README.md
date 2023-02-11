@@ -7,10 +7,25 @@ This is a 75mm VESA port adapter for Redmi 1A monitor, which using a stupid stan
 
 | Name                     | Num | URL                                                                                                                            |
 | ------------------------ | --- | ------------------------------------------------------------------------------------------------------------------------------ |
-| M3\*100 螺丝             | 2   | [Taobao](https://detail.tmall.com/item.htm?_u=a3t2jj8gf92d&id=587778806234&spm=a1z09.2.0.0.13802e8dpN5hzR&skuId=4903450320144) |
+| M3\*50 螺丝             | 4   | [Taobao](https://detail.tmall.com/item.htm?_u=a3t2jj8gf92d&id=587778806234&spm=a1z09.2.0.0.13802e8dpN5hzR&skuId=4903450320144) |
 | M3*5*5.3 滚花螺母        | 4   | [1688](https://detail.1688.com/offer/613672580341.html?spm=a360q.8274423.0.0.49c84c9a0qBFgW)                                   |
-| 转接结构，需 PLA 3D 打印 | 1   | [Github](https://github.com/drinktoomuchsax/Redmi-1A-VESA-Adapter/blob/main/a_easy_one%20v2.stl)                               |
+| 转接结构，需 PLA 3D打印 100%填充| 1   | [Github](https://github.com/drinktoomuchsax/Redmi-1A-VESA-Adapter/blob/main/a_easy_one%20v2.stl)                               |
+
+## 组装教程
+**嵌入滚花螺丝**
+![](Pic/551A0446.JPG)
+
+**往两端送入50mm的M3圆头螺丝**
+![](Pic/551A0451.JPG)
+
+**两边可能会有不齐，但是没有关系**
+![](Pic/551A0452.JPG)
 
 ## 效果图
+![back](Pic/551A0455.JPG)
 
-![hello](https://images.unsplash.com/photo-1545665277-5937489579f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+![dorm](Pic/551A0459.JPG)
+
+## To Do
+**因为板子不够厚，所以会因为中间突出而翘起，通过简单加厚厚度可以解决，但是可以我可以接受，所以就这样了。**
+![](Pic/551A0456.JPG)
